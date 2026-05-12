@@ -1,0 +1,24 @@
+**Install pip using Python**
+python -m ensurepip --upgrade
+
+
+**Verify pip installation**
+python -m pip --version
+
+
+**Install OpenCV and NumPy**
+C:\Users\laksh\AppData\Local\Programs\Python\Python311\python.exe -m pip install numpy opencv-python
+
+
+**Upgrade pip (optional but recommended)**
+python -m pip install --upgrade pip
+
+
+**Install MediaPipe**
+python -m pip install mediapipe
+
+
+**Install Pygame**
+python -m pip install pygame
+
+
